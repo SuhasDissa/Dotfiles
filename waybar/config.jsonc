@@ -46,7 +46,7 @@
         "tooltip" : true,
         "format" : "{}",
         "interval" : 3600,
-        "exec" : "curl -s 'wttr.in/HaliEla?format=%c+%f+%h\n'"
+        "exec" : "curl -s 'wttr.in/HaliEla?format=%c+%f+%h'"
     },
     "tray": {
         "icon-size": 13,
