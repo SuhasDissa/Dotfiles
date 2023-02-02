@@ -14,7 +14,7 @@ My personal dotfiles for hyprland tiling wm
 
 You need to have [Chaoic-Aur](https://aur.chaotic.cx/) configured
 ```bash
-sudo pacman -S hyprland-git waybar-hyprland-git swaybg wlogout rofi wl-clipboard grim slurp kitty brightnessctl pamixer dunst
+sudo pacman -S hyprland-git waybar-hyprland-git swaybg wlogout rofi wl-clipboard grim slurp kitty brightnessctl pamixer dunst polkit-kde-agent
 ```
 
 - `swaybg` : Wallpaper support
